@@ -1,0 +1,3 @@
+[submodule "lib/libdate"]
+	path = lib/libdate
+	url = https://github.com/Brainless43/libdate
